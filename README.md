@@ -1,7 +1,7 @@
 #  Oi, eu sou o Jhéffyter Mattos, estudante de tecnologia e programação!
 
 <div align="center">
-  <a href="https://cursos.alura.com.br/user/jeffytermatos">
+  <a href="https://github.com/Jheffyter">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jheffyter&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jheffyter&layout=compact&langs_count=7&theme=dark"/>
 </div>
